@@ -1,3 +1,7 @@
+# GPS dumps
+*.csv
+*.dump
+
 # Object files
 *.o
 
